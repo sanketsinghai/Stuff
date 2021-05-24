@@ -1,0 +1,6 @@
+dicttoxml==1.7.4
+Flask==1.1.1
+Flask-RESTful==0.3.8
+requests
+json
+
